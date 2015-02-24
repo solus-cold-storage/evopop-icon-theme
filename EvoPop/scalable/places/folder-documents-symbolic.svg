@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,20 +37,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="758"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="3.4766083"
-     inkscape:cx="25.741334"
-     inkscape:cy="17.042057"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="24.217976"
+     inkscape:cy="15.335676"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4133" />
+  </sodipodi:namedview>
   <path
      inkscape:connector-curvature="0"
-     d="M 9.9999998,4 4,4 C 2.9,4 2.01,4.9 2.01,6 L 2,18 c 0,1.1 0.9,2 2,2 l 16,0 c 1.1,0 2,-0.9 2,-2 L 22,8 C 22,6.9 21.1,6 20,6 L 12,6 9.9999998,4 Z"
+     d="M 10,3 2.4,3 C 1.08,3 0,4.69375 0,6 L 0,20.625 C 0,21.93125 1.08,23 2.4,23 l 19.2,0 C 22.92,23 24,21.93125 24,20.625 L 24,8.75 C 24,7.44375 22.318552,5.9381929 21,6 l -8,0 z"
      id="path4"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     sodipodi:nodetypes="csccssssscc" />
 </svg>
