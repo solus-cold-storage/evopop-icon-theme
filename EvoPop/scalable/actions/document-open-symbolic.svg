@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +37,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-width="1071"
+     inkscape:window-height="947"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="0.72819931"
-     inkscape:cy="11.462664"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="22.627416"
+     inkscape:cx="12.501874"
+     inkscape:cy="7.4841093"
+     inkscape:window-x="842"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -53,7 +54,7 @@
   </sodipodi:namedview>
   <path
      inkscape:connector-curvature="0"
-     d="m 8,18 8,0 0,-8 6,0 L 12,0 2,10 8,10 Z m -6,3 20,0 0,3 -20,0 z"
+     d="m 5,13.000146 6,-4.2e-5 0,-5.0002082 3,2.918e-4 L 8.0000002,0 2,8.0001876 5,7.9999375 Z m -3,0.999917 12,0 0,2 -12,-1e-6 z"
      id="path6"
      style="fill:#bebebe;fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccc" />

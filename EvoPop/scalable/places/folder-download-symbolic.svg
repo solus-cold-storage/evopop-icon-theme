@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-downloads-symbolic.svg">
+   sodipodi:docname="folder-download-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1297"
-     inkscape:window-height="960"
+     inkscape:window-width="1032"
+     inkscape:window-height="718"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="23.162382"
-     inkscape:cy="20.206423"
-     inkscape:window-x="644"
-     inkscape:window-y="0"
+     inkscape:zoom="17.142857"
+     inkscape:cx="3.4669005"
+     inkscape:cy="9.7621754"
+     inkscape:window-x="691"
+     inkscape:window-y="260"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -53,7 +53,7 @@
        id="grid4133" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#bababa;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:14.5;stroke-dasharray:none;stroke-opacity:1"
-     d="M 3 0 C 1.338 0 0 1.338 0 3 L 0 21 C 0 22.662 1.338 24 3 24 L 21 24 C 22.662 24 24 22.662 24 21 L 24 3 C 24 1.338 22.662 0 21 0 L 3 0 z M 9 4 L 15 4 L 15 12 L 20 12 L 12 20 L 4 12 L 9 12 L 9 4 z "
-     id="rect4160" />
+     style="fill:#bebebe;fill-opacity:1"
+     d="M 3 1 C 2.23 1 1 2.0621794 1 3 L 1 13 C 1 13.93782 2.23 15 3 15 L 13 15 C 13.77 15 15 13.93782 15 13 L 15 5 C 15 4.0621795 13.77077 3 13 3 L 9 3 L 7 1 L 3 1 z M 6 5 L 10 5 L 10 9 L 11 9 L 12 9 L 8 13 L 4 9 L 5 9 L 6 9 L 6 5 z "
+     id="path4" />
 </svg>
