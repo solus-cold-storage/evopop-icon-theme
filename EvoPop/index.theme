@@ -7,7 +7,7 @@ Inherits=Moka
 Example=directory-x-normal
 
 # Directory list
-Directories=16x16/status,24x24/actions,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/apps,scalable/status
+Directories=16x16/status,24x24/actions,24x24/places,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/apps,scalable/status
 
 [16x16/status]
 Size=16
@@ -17,6 +17,16 @@ Type=Fixed
 [24x24/actions]
 Size=24
 Context=Actions
+Type=Fixed
+
+[24x24/apps]
+Size=24
+Context=Apps
+Type=Fixed
+
+[24x24/places]
+Size=24
+Context=Places
 Type=Fixed
 
 [48x48/apps]
