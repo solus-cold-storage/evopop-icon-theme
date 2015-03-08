@@ -1,7 +1,7 @@
-# evopop-icon-theme
+# EvoPop IconTheme
 
-#EvoPop Icon Theme Guidelines
-=====================
+# Theme Guidelines
+
 These are some simple guidelines we use in order to have a cohesive icon pack.
 To put it simple we use [google material design](http://www.google.com/design/spec/style/icons.html#icons-product-icons) with some alterations.
 
