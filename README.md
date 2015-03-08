@@ -12,6 +12,8 @@ To put it simple we use [google material design](http://www.google.com/design/sp
 - The lightning layer at a 45° angle
 4. We try to stick to [gmd colors](http://www.google.com/design/spec/style/color.html)
 5. There is no need to try & reinvent a good flat icon
+
+
 ========================================================
 
 ###Actual files
