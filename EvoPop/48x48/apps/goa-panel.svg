@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="online-accounts.svg"
+   inkscape:export-filename="/home/poltertec/Downloads/testikel2.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4630">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4632" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4634" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur"
+         id="feGaussianBlur4636" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset4638" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4640" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="7.016507"
+     inkscape:cy="47.291959"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="960"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4140" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="fill:#1976d2;fill-opacity:1"
+       id="path4197"
+       d="m 36.871251,1024.9235 c -1.190001,-6.02 -6.50125,-10.5613 -12.87125,-10.5613 -5.0575,0 -9.441252,2.87 -11.637501,7.0613 C 7.10375,1021.9922 3,1026.446 3,1031.8622 c 0,5.8012 4.6987503,10.5 10.5,10.5 l 22.750001,0 c 4.829999,0 8.749999,-3.92 8.749999,-8.75 0,-4.6201 -3.59625,-8.365 -8.128749,-8.6887 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:0.2"
+       d="M 3.0117188 27.238281 C 3.0095529 27.326 3 27.411758 3 27.5 C 3 33.3012 7.6987503 38 13.5 38 L 36.25 38 C 41.079999 38 45 34.08 45 29.25 C 45 29.163646 44.990777 29.079867 44.988281 28.994141 C 44.857704 33.710387 40.997619 37.5 36.25 37.5 L 13.5 37.5 C 7.7791697 37.5 3.1395035 32.928241 3.0117188 27.238281 z "
+       transform="translate(0,1004.3622)"
+       id="path4" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.2"
+       d="M 24 10 C 18.9425 10 14.55953 12.869247 12.363281 17.060547 C 7.1045312 17.629247 3 22.0838 3 27.5 C 3 27.580419 3.0099224 27.658296 3.0117188 27.738281 C 3.1424894 22.441935 7.1902085 18.119981 12.363281 17.560547 C 14.55953 13.369247 18.9425 10.5 24 10.5 C 30.37 10.5 35.681093 15.040547 36.871094 21.060547 C 41.318876 21.378197 44.857271 24.993373 44.988281 29.494141 C 44.990547 29.412305 45 29.33238 45 29.25 C 45 24.6299 41.403593 20.884247 36.871094 20.560547 C 35.681093 14.540547 30.37 10 24 10 z "
+       transform="translate(0,1004.3622)"
+       id="path4189" />
+  </g>
+</svg>
