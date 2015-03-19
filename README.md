@@ -8,7 +8,7 @@ To put it simple we use [google material design](http://www.google.com/design/sp
 1. Free shapes: we don't stick to uniform shapes! Corners are however rounded as subscribed.
 2. We keep our icons simple & flat
 3. We don't use shadows expect for:
-  - The tinded & shaded edges (0.5 height)
+  - The tinded & shaded edges (1px height)
   - The lightning layer at a 45° angle
 4. We try to stick to [gmd colors](http://www.google.com/design/spec/style/color.html)
 5. There is no need to try & reinvent a good flat icon

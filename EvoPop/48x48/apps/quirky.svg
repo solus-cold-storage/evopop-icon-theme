@@ -85,14 +85,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="50.642988"
-     inkscape:cy="6.0020489"
+     inkscape:cx="29.955488"
+     inkscape:cy="26.002049"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:window-height="689"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,6 +119,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
+    <path
+       id="path4167"
+       d="m 6,1050.3622 c -2.216,0 -4,-1.784 -4,-4 l 0,-0.5 c 0,2.216 1.784,4 4,4 l 36,0 c 2.216,0 4,-1.784 4,-4 l 0,0.5 c 0,2.216 -1.784,4 -4,4 l -36,0 z"
+       style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:#263238;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect4151"
@@ -139,16 +144,6 @@
        style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        d="m 24,1014.3622 a 14,13.999989 0 0 0 -14,14 14,13.999989 0 0 0 14,14 14,13.999989 0 0 0 14,-14 14,13.999989 0 0 0 -14,-14 z m 0,2 a 12,11.999991 0 0 1 12,12 12,11.999991 0 0 1 -12,12 12,11.999991 0 0 1 -12,-12 12,11.999991 0 0 1 12,-12 z"
        id="path4153"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6,1006.3622 c -2.216,0 -4,1.784 -4,4 l 0,0.5 c 0,-2.216 1.784,-4 4,-4 l 36,0 c 2.216,0 4,1.784 4,4 l 0,-0.5 c 0,-2.216 -1.784,-4 -4,-4 l -36,0 z"
-       id="rect4162"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path4167"
-       d="m 6,1050.3622 c -2.216,0 -4,-1.784 -4,-4 l 0,-0.5 c 0,2.216 1.784,4 4,4 l 36,0 c 2.216,0 4,-1.784 4,-4 l 0,0.5 c 0,2.216 -1.784,4 -4,4 l -36,0 z"
-       style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#eeeeee;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
@@ -174,6 +169,16 @@
        style="fill:url(#linearGradient4171-1);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 6,1006.3622 c -2.216,0 -4,1.784 -4,4 l 0,18 0,18 c 0,2.216 1.784,4 4,4 l 18,0 18,0 c 2.216,0 4,-1.784 4,-4 l 0,-18 0,-18 c 0,-2.216 -1.784,-4 -4,-4 l -18,0 -18,0 z"
        id="circle4163-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6 2 C 3.784 2 2 3.7840017 2 6 L 2 7 C 2 4.7840017 3.784 3 6 3 L 42 3 C 44.216 3 46 4.7840017 46 7 L 46 6 C 46 3.7840017 44.216 2 42 2 L 6 2 z "
+       transform="translate(0,1004.3622)"
+       id="rect4155" />
+    <path
+       id="path4160"
+       d="m 6,1050.3622 c -2.216,0 -4,-1.784 -4,-4 l 0,-1 c 0,2.216 1.784,4 4,4 l 36,0 c 2.216,0 4,-1.784 4,-4 l 0,1 c 0,2.216 -1.784,4 -4,4 l -36,0 z"
+       style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
