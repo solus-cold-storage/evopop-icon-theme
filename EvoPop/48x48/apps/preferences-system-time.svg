@@ -84,9 +84,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="30.942738"
-     inkscape:cy="20.572705"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="4.2036927"
+     inkscape:cy="25.5137"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -154,10 +154,10 @@
        id="rect4161"
        width="1"
        height="16"
-       x="-745.10193"
-       y="-709.19836"
+       x="-745.41449"
+       y="-709.32318"
        transform="matrix(-0.70663836,-0.70757489,0.70757489,-0.70663836,0,0)" />
-    <circle
+    <ellipse
        style="fill:#28373f;fill-opacity:1;stroke:none"
        id="path4153"
        cx="24"
@@ -168,10 +168,11 @@
        id="rect4157"
        width="17"
        height="2"
-       x="23"
-       y="1027.3622"
+       x="742.69202"
+       y="709.68842"
        ry="1"
-       rx="1" />
+       rx="1"
+       transform="matrix(0.70743188,0.70678153,-0.70678153,0.70743188,0,0)" />
     <path
        id="path4160"
        d="m 24,1050.3622 a 22,22 0 0 1 -22,-22 22,22 0 0 1 0.021484,-0.5859 A 22,22 0 0 0 24,1049.3622 a 22,22 0 0 0 21.978516,-21.414 22,22 0 0 1 0.02148,0.414 22,22 0 0 1 -22,22 z"

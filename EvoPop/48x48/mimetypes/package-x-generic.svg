@@ -19,7 +19,7 @@
    inkscape:export-filename="/home/poltertec/rect4256.png"
    inkscape:export-xdpi="360"
    inkscape:export-ydpi="360"
-   sodipodi:docname="application-archive.svg">
+   sodipodi:docname="package-x-generic.svg">
   <defs
      id="defs4">
     <filter
@@ -84,16 +84,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-62.196452"
-     inkscape:cy="165.0933"
+     inkscape:zoom="11.2"
+     inkscape:cx="16.368366"
+     inkscape:cy="27.709304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="959"
-     inkscape:window-height="1000"
-     inkscape:window-x="959"
+     inkscape:window-width="960"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,6 +124,11 @@
        height="6"
        x="7"
        y="1008.3622" />
+    <path
+       id="path4150"
+       d="m 19,1023.3622 0,5 -8,0 13,13 13,-13 -8,0 0,-5 -10,0 z"
+       style="fill:#26333b;fill-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        d="m 44.887778,1011.8011 -3.385556,-4.1067 c -0.684444,-0.8066 -1.698889,-1.3322 -2.835555,-1.3322 l -29.333334,0 c -1.136666,0 -2.151111,0.5256 -2.823333,1.3322 l -3.385556,4.1067 C 2.415555,1012.6566 2,1013.7322 2,1014.9178 l 0,30.5555 c 0,2.7011 2.187778,4.8889 4.888889,4.8889 l 34.222222,0 c 2.701111,0 4.888889,-2.1878 4.888889,-4.8889 l 0,-30.5555 c 0,-1.1856 -0.415556,-2.2612 -1.112222,-3.1167 z M 24,1041.3622 l -13,-13 8,0 0,-5 10,0 0,5 8,0 z m -16.805556,-30.1111 1.992223,-2.4445 29.333333,0 2.285556,2.4445 z"
        id="path4"
@@ -147,8 +152,13 @@
        id="path4164" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#eeeeee;fill-opacity:1"
-       d="m 19,1023.3622 0,5 -8,0 13,13 13,-13 -8,0 0,-5 -10,0 z"
+       style="fill:#000000;fill-opacity:0.2"
+       d="m 20,1024.3622 0,5 -8,0 13,13 13,-13 -8,0 0,-5 -10,0 z"
        id="rect4172" />
+    <path
+       id="path4152"
+       d="m 19,1023.3622 0,5 -8,0 13,13 13,-13 -8,0 0,-5 -10,0 z"
+       style="fill:#efefef;fill-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

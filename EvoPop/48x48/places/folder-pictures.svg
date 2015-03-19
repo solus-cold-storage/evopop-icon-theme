@@ -87,17 +87,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="15.501099"
-     inkscape:cy="23.327783"
+     inkscape:zoom="11.313708"
+     inkscape:cx="20.957395"
+     inkscape:cy="30.231018"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="960"
      inkscape:window-height="1003"
-     inkscape:window-x="869"
-     inkscape:window-y="31"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4167">
@@ -107,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -164,9 +164,14 @@
        transform="translate(0,1004.3622)"
        id="path4151" />
     <path
-       d="m 31,1037.0895 0,-7.6364 c 0,-0.7032 -0.569545,-1.2727 -1.272727,-1.2727 l -11.454546,0 c -0.703181,0 -1.272727,0.5695 -1.272727,1.2727 l 0,7.6364 c 0,0.7032 0.569546,1.2727 1.272727,1.2727 l 11.454546,0 c 0.703182,0 1.272727,-0.5695 1.272727,-1.2727 z m -9.227273,-3.5 1.590909,1.9123 2.227273,-2.8669 2.863636,3.8182 -8.90909,0 2.227272,-2.8636 z"
+       d="m 32,1038.0895 0,-7.6364 c 0,-0.7032 -0.569545,-1.2727 -1.272727,-1.2727 l -11.454546,0 c -0.703181,0 -1.272727,0.5695 -1.272727,1.2727 l 0,7.6364 c 0,0.7032 0.569546,1.2727 1.272727,1.2727 l 11.454546,0 c 0.703182,0 1.272727,-0.5695 1.272727,-1.2727 z m -9.227273,-3.5 1.590909,1.9123 2.227273,-2.8669 2.863636,3.8182 -8.90909,0 2.227272,-2.8636 z"
        id="path4"
        inkscape:connector-curvature="0"
-       style="fill:#ededed;fill-opacity:1" />
+       style="fill:#000000;fill-opacity:0.2" />
+    <path
+       style="fill:#ededed;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path4152"
+       d="m 31,1037.0895 0,-7.6364 c 0,-0.7032 -0.569545,-1.2727 -1.272727,-1.2727 l -11.454546,0 c -0.703181,0 -1.272727,0.5695 -1.272727,1.2727 l 0,7.6364 c 0,0.7032 0.569546,1.2727 1.272727,1.2727 l 11.454546,0 c 0.703182,0 1.272727,-0.5695 1.272727,-1.2727 z m -9.227273,-3.5 1.590909,1.9123 2.227273,-2.8669 2.863636,3.8182 -8.90909,0 2.227272,-2.8636 z" />
   </g>
 </svg>
