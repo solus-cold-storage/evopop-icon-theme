@@ -5,7 +5,7 @@ Comment=Evolve OS icon theme
 Inherits=gnome,hicolor
 
 # Directory list
-Directories=16x16/apps,16x16/status,16x16/places,24x24/actions,24x24/apps,24x24/places,32x32/apps,32x32/places,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/places,symbolic/apps,symbolic/status
+Directories=16x16/apps,16x16/status,16x16/places,24x24/actions,24x24/apps,24x24/places,32x32/apps,32x32/places,48x48/apps,48x48/devices,48x48/mimetypes,48x48/places,scalable/apps,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/places,symbolic/apps,symbolic/status
 
 [16x16/apps]
 Size=16
@@ -74,6 +74,13 @@ Context=Places
 Type=Scalable
 MinSize=48
 MaxSize=256
+
+[scalable/apps]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=48
+MaxSize=512
 
 [symbolic/actions]
 Size=16
