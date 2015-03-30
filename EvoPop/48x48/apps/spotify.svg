@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="spotify.svg">
   <defs
      id="defs4">
@@ -46,7 +46,8 @@
        gradientUnits="userSpaceOnUse"
        id="linearGradient3072"
        xlink:href="#linearGradient4086"
-       inkscape:collect="always" />
+       inkscape:collect="always"
+       gradientTransform="matrix(1.1891892,0,0,1.1891883,-8.702705,996.84873)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,20 +56,24 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="2.6702982"
-     inkscape:cy="26.113601"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="-3.2781914"
+     inkscape:cy="27.143759"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1623"
-     inkscape:window-height="1026"
-     inkscape:window-x="57"
-     inkscape:window-y="24"
+     inkscape:window-width="1680"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -95,19 +100,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       sodipodi:type="arc"
+    <g
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Proxima Nova;-inkscape-font-specification:Proxima Nova"
+       id="text2996-9" />
+    <ellipse
+       cy="1028.3622"
+       cx="24"
        style="opacity:1;fill:#b2ff59;fill-opacity:1;stroke:none"
        id="path3790"
-       sodipodi:cx="20"
-       sodipodi:cy="-100"
-       sodipodi:rx="60"
-       sodipodi:ry="60"
-       d="m 80,-100 c 0,33.137085 -26.862915,60 -60,60 -33.137085,0 -60,-26.862915 -60,-60 0,-33.13708 26.862915,-60 60,-60 33.137085,0 60,26.86292 60,60 z"
-       transform="matrix(0.35833333,0,0,0.35833333,16.833333,1064.1955)" />
+       rx="22"
+       ry="21.999983" />
     <g
        id="g4357"
-       transform="matrix(0.96012263,0.27957921,-0.27957921,0.96012263,287.32551,38.381615)"
+       transform="matrix(0.98245105,0.28608082,-0.28608105,0.98245028,293.44936,15.359633)"
        style="fill:#333333">
       <path
          inkscape:transform-center-y="-10.67613"
@@ -136,28 +141,22 @@
     </g>
     <path
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 45.499999,1028.3622 c 0,9.4654 -9.625877,20.5 -21.499999,20.5 -11.874122,0 -21.4999999,-11.0346 -21.4999999,-20.5 0,11.8742 9.6258779,21.5 21.4999999,21.5 11.874122,0 21.499999,-9.6258 21.499999,-21.5 z"
+       d="m 45.999999,1028.3622 c 0,9.6855 -9.849735,21 -21.999999,21 -12.150264,0 -21.9999996,-11.3145 -21.9999996,-21 0,12.1504 9.8497356,22 21.9999996,22 12.150264,0 21.999999,-9.8496 21.999999,-22 z"
        id="path3790-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsc" />
     <path
-       style="opacity:0.20000000000000001;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 45.499999,1028.3622 c 0,-9.4654 -9.625877,-20.5 -21.499999,-20.5 -11.874122,0 -21.5,11.0346 -21.5,20.5 0,-11.8742 9.625878,-21.5 21.5,-21.5 11.874122,0 21.499999,9.6258 21.499999,21.5 z"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 45.999999,1028.3622 c 0,-9.6855 -9.849735,-21 -21.999999,-21 -12.150264,0 -21.9999997,11.3145 -21.9999997,21 0,-12.1503 9.8497357,-22 21.9999997,-22 12.150264,0 21.999999,9.8497 21.999999,22 z"
        id="path3790-0-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsc" />
-    <g
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Proxima Nova;-inkscape-font-specification:Proxima Nova"
-       id="text2996-9" />
-    <path
-       sodipodi:type="arc"
+    <ellipse
+       cy="1028.3622"
+       cx="24"
        style="fill:url(#linearGradient3072);fill-opacity:1;stroke:none"
        id="path2983-1"
-       sodipodi:cx="27.5"
-       sodipodi:cy="26.5"
-       sodipodi:rx="18.5"
-       sodipodi:ry="18.5"
-       d="m 46,26.5 a 18.5,18.5 0 1 1 -37,0 18.5,18.5 0 1 1 37,0 z"
-       transform="matrix(1.1621622,0,0,1.1621622,-7.9594605,997.5649)" />
+       rx="22"
+       ry="21.999983" />
   </g>
 </svg>
