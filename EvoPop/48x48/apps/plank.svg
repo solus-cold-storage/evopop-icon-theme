@@ -59,11 +59,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="18.70737"
-     inkscape:cy="25.248057"
+     inkscape:cx="5.0555385"
+     inkscape:cy="23.425288"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-grids="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,14 +110,12 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <g
-       id="g4530"
-       inkscape:export-filename="/home/afel/Pictures/evos-mockups/personal-app-icons/plankbrown.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360">
+       id="g4172">
       <path
          id="rect4135"
          d="m 7,1008.3622 34,0 c 1.662,0 3,1.338 3,3 l 0,34 c 0,1.662 -1.338,3 -3,3 l -34,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-34 c 0,-1.662 1.338,-3 3,-3 z"
-         style="opacity:1;fill:#4fc3f7;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#b3e5fc;fill-opacity:0.94117647;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cssssssccc"
          inkscape:connector-curvature="0"
@@ -127,7 +125,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path4162"
-         d="m 24,1011.3622 a 4.5,4.5 0 0 0 -4.5,4.5 4.5,4.5 0 0 0 2.541016,4.0469 c 0.03525,0.388 0.08754,1.0587 0.142578,2.4531 l -5.183594,0 3,3 2.246094,0 c 6.09e-4,3.5889 -0.240834,8.4449 -1.177735,13.5996 -3.641242,-0.9176 -7.694882,-3.4481 -9.332031,-7.5957 l 2.263672,0 c 0,0 -1.581024,-0.5849 -3,-2.0039 -1.418976,-1.419 -2,-2.9961 -2,-2.9961 0,0 -0.04883,1.0309 0,2 0.1136003,1.0417 0.2510355,1.9121 0.5410156,2.9981 l -0.00195,0 c 1.3993265,5.0664 5.3907185,9.0573 10.4570315,10.457 1.274541,0.3522 3.003906,0.541 4.003906,1.541 1,-1 2.719873,-1.1875 3.990234,-1.5371 5.072626,-1.3961 9.067883,-5.3883 10.46875,-10.459 l 0,-0 c 0.290347,-1.0869 0.427346,-1.9577 0.541016,-3 0.04883,-0.9691 0,-2 0,-2 0,0 -0.581024,1.5771 -2,2.9961 -1.418976,1.419 -3,2.0039 -3,2.0039 l 2.257812,0 c -1.633936,4.1551 -5.686347,6.6832 -9.328124,7.5996 -0.942443,-5.154 -1.183774,-10.0101 -1.181641,-13.5996 l 2.251953,0 3,-3 -5.185547,0 c 0.0561,-1.3963 0.108904,-2.0678 0.144531,-2.4551 a 4.5,4.5 0 0 0 2.541016,-4.0449 4.5,4.5 0 0 0 -4.5,-4.5 z m 0,2 a 2.5,2.5 0 0 1 2.5,2.5 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 z"
+         d="m 24,1011.3622 a 4.5,4.5 0 0 0 -4.5,4.5 4.5,4.5 0 0 0 2.541016,4.0469 c 0.03525,0.388 0.08754,1.0587 0.142578,2.4531 l -5.183594,0 3,3 2.246094,0 c 6.09e-4,3.5889 -0.240834,8.4449 -1.177735,13.5996 -3.641242,-0.9176 -7.694882,-3.4481 -9.332031,-7.5957 l 2.263672,0 c 0,0 -1.581024,-0.5849 -3,-2.0039 -1.418976,-1.419 -2,-2.9961 -2,-2.9961 0,0 -0.04883,1.0309 0,2 0.1136003,1.0417 0.2510355,1.9121 0.5410156,2.9981 l -0.00195,0 c 1.3993264,5.0664 5.3907184,9.0573 10.4570314,10.457 1.274541,0.3522 3.003906,0.541 4.003906,1.541 1,-1 2.719873,-1.1875 3.990234,-1.5371 5.072626,-1.3961 9.067883,-5.3883 10.46875,-10.459 l 0,0 c 0.290347,-1.0869 0.427346,-1.9577 0.541016,-3 0.04883,-0.9691 0,-2 0,-2 0,0 -0.581024,1.5771 -2,2.9961 -1.418976,1.419 -3,2.0039 -3,2.0039 l 2.257812,0 c -1.633936,4.1551 -5.686347,6.6832 -9.328124,7.5996 -0.942443,-5.154 -1.183774,-10.0101 -1.181641,-13.5996 l 2.251953,0 3,-3 -5.185547,0 c 0.0561,-1.3963 0.108904,-2.0678 0.144531,-2.4551 a 4.5,4.5 0 0 0 2.541016,-4.0449 4.5,4.5 0 0 0 -4.5,-4.5 z m 0,2 a 2.5,2.5 0 0 1 2.5,2.5 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 z"
          style="opacity:1;fill:#0091ea;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          ry="1"
@@ -215,7 +213,7 @@
          style="opacity:1;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="rect4135-3"
-         d="m 7.0000001,1008.3622 33.9999999,0 c 1.662,0 3,1.338 3,3 l 0,34.0001 c 0,1.662 -1.338,3 -3,3 l -33.9999999,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-34.0001 c 0,-1.662 1.338,-3 3,-3 z"
+         d="m 7,1008.3622 34,0 c 1.662,0 3,1.338 3,3 l 0,34.0001 c 0,1.662 -1.338,3 -3,3 l -34,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-34.0001 c 0,-1.662 1.338,-3 3,-3 z"
          style="opacity:1;fill:url(#linearGradient4528);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
