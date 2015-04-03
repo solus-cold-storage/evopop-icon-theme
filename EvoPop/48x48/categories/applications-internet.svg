@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,16 +61,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1008"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="9.8287845"
-     inkscape:cx="-9.6090021"
-     inkscape:cy="16.925427"
+     inkscape:zoom="3.4750001"
+     inkscape:cx="5.2017277"
+     inkscape:cy="-31.24713"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -122,4 +122,14 @@
      cx="33"
      cy="28"
      r="5" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 24,2 A 22,22 0 0 0 2,24 22,22 0 0 0 2.02148,24.586 22,22 0 0 1 23.999999,3 22,22 0 0 1 45.978516,24.4141 22,22 0 0 0 45.999996,24 22,22 0 0 0 23.999995,2 Z"
+     id="circle4149" />
+  <path
+     id="path4151"
+     d="M 24,46 A 22,22 0 0 1 2,24 22,22 0 0 1 2.02148,23.414 22,22 0 0 0 23.999999,45 22,22 0 0 0 45.978516,23.5859 22,22 0 0 1 45.999996,24 22,22 0 0 1 23.999995,46 Z"
+     style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>
