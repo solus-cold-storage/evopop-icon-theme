@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="zoom-in.svg">
+   sodipodi:docname="media-skip-backward-rtl.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
+     inkscape:window-width="960"
      inkscape:window-height="1008"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="30"
-     inkscape:cx="5.6445019"
-     inkscape:cy="7.4032928"
-     inkscape:window-x="126"
+     inkscape:zoom="16"
+     inkscape:cx="3.3519903"
+     inkscape:cy="3.7570357"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
@@ -53,7 +53,20 @@
        id="grid3333" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#4d4d4d;fill-opacity:0.60000002;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 3.7148438 2 C 2.8577009 2 2 2.8577009 2 3.7148438 L 2 12.285156 C 2 13.142299 2.8577009 14 3.7148438 14 L 12.285156 14 C 13.142299 14 14 13.142299 14 12.285156 L 14 3.7148438 C 14 2.8577009 13.142299 2 12.285156 2 L 3.7148438 2 z M 7 4 L 9 4 L 9 7 L 12 7 L 12 9 L 9 9 L 9 12 L 7 12 L 7 9 L 4 9 L 4 7 L 7 7 L 7 4 z "
-     id="rect4216" />
+     style="fill:#000000;fill-opacity:0.55"
+     inkscape:connector-curvature="0"
+     id="path4134"
+     d="M 1,4 1,12 7,8.0000004 Z" />
+  <path
+     d="m 7,4 0,8 6,-3.9999996 z"
+     id="path4136"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:0.55" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:0.54901961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
+     id="rect4235"
+     width="2"
+     height="8"
+     x="13"
+     y="4" />
 </svg>
