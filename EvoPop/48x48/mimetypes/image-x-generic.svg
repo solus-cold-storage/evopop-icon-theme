@@ -75,6 +75,32 @@
        y2="1007.3622"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(39,41.00004)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4166"
+       x="-0.027319964"
+       width="1.0546399"
+       y="-0.0213995"
+       height="1.042799">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.213995"
+         id="feGaussianBlur4168" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181"
+       x="-0.011373369"
+       width="1.0227467"
+       y="-0.012699707"
+       height="1.0253994">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.12699707"
+         id="feGaussianBlur4183" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -83,9 +109,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-22.066121"
-     inkscape:cy="37.416413"
+     inkscape:zoom="5.6"
+     inkscape:cx="1.2171256"
+     inkscape:cy="23.99089"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -196,8 +222,8 @@
        x="6"
        y="1016.3622" />
     <path
-       style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
-       d="M 6 12 L 6 36 L 20.798828 36 L 32.798828 24 L 20.798828 12 L 6 12 z "
+       style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55;filter:url(#filter4181)"
+       d="M 6 12.5 L 6 36 L 20.798828 36 L 32.298828 24.5 L 20.298828 12.5 L 6 12.5 z "
        transform="translate(0,1004.3622)"
        id="rect4162" />
     <path
@@ -206,8 +232,8 @@
        transform="translate(0,1004.3622)"
        id="rect4164" />
     <path
-       style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
-       d="M 6 12 L 6 36 L 12.798828 36 L 24.798828 24 L 12.798828 12 L 6 12 z "
+       style="opacity:1;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55;filter:url(#filter4166)"
+       d="M 6 12.5 L 6 36 L 12.798828 36 L 24.298828 24.5 L 12.298828 12.5 L 6 12.5 z "
        transform="translate(0,1004.3622)"
        id="rect4160" />
     <path
