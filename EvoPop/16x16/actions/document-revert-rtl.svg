@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="zoom-original.svg">
+   sodipodi:docname="document-revert-rtl.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,11 +41,11 @@
      inkscape:window-height="1008"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="2.4266738"
-     inkscape:cy="8.2213182"
-     inkscape:window-x="262"
-     inkscape:window-y="0"
+     inkscape:zoom="11.313708"
+     inkscape:cx="0.14642946"
+     inkscape:cy="5.3879988"
+     inkscape:window-x="852"
+     inkscape:window-y="3"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -53,7 +53,12 @@
        id="grid3333" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.55000001;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 5.5722656 3 C 4.2865514 3 3 4.2865511 3 5.5722656 L 3 18.427734 C 3 19.713448 4.2865514 21 5.5722656 21 L 18.427734 21 C 19.713448 21 21 19.713448 21 18.427734 L 21 5.5722656 C 21 4.2865511 19.713448 3 18.427734 3 L 5.5722656 3 z M 9 6 L 14 6 L 14 7.34375 L 14 8 L 14 18 L 12 18 L 12 8 L 9 8 L 9 6 z "
-     id="rect4216" />
+     style="opacity:1;fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:1.65999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
+     d="M 4 1 C 3.446 1 3 1.446 3 2 L 3 14 C 3 14.554 3.446 15 4 15 L 12 15 C 12.554 15 13 14.554 13 14 L 13 5 L 9 1 L 4 1 z "
+     id="rect4146" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.65999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
+     d="m 6,8 3,3 -3,3 0,-2 -3,0 A 2,2 0 0 1 1,10 2,2 0 0 1 3,8 l 0,2 3,0 0,-2 z"
+     id="path4146"
+     inkscape:connector-curvature="0" />
 </svg>
