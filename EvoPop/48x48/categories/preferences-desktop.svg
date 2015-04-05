@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-system.svg">
+   sodipodi:docname="preferences-desktop.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,7 @@
        gradientTransform="matrix(0.65217379,0,0,0.65216874,8.3478267,-644.6654)" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#6d6d6d"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -66,10 +66,10 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="6.9532166"
-     inkscape:cx="-37.173341"
-     inkscape:cy="28.564333"
-     inkscape:window-x="960"
-     inkscape:window-y="0"
+     inkscape:cx="-3.3760338"
+     inkscape:cy="10.874678"
+     inkscape:window-x="957"
+     inkscape:window-y="3"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -94,7 +94,7 @@
      d="m 23.999942,34 a 9.9999446,9.999921 0 0 1 -9.999944,-9.999926 9.9999446,9.999921 0 0 1 0.0045,-0.1332 9.9999446,9.999921 0 0 0 9.995504,9.905876 9.9999446,9.999921 0 0 0 9.995506,-9.866776 9.9999446,9.999921 0 0 1 0.0044,0.0941 A 9.9999446,9.999921 0 0 1 23.999912,34 Z"
      style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     style="fill:#78909c;fill-opacity:1"
+     style="fill:#37474f;fill-opacity:1"
      d="M 19.472526,2 C 18.907227,2 18.443805,2.406824 18.353357,2.923828 L 17.57599,8.271484 a 17.000472,17 0 0 0 -4.246211,2.511718 L 8.0522884,8.710938 C 7.5435189,8.523906 6.955994,8.710594 6.6733439,9.183594 L 2.151734,16.80664 c -0.28265,0.473 -0.158132,1.067206 0.2714919,1.408204 l 4.7364595,3.615234 A 17.000472,17 0 0 0 6.9995248,24 17.000472,17 0 0 0 7.1557792,26.171874 l -4.7325533,3.613282 c -0.4296275,0.33 -0.5541447,0.924204 -0.2714919,1.408202 l 4.5216099,7.623048 c 0.2826497,0.473 0.870175,0.670658 1.3789445,0.472656 L 13.323919,37.21875 a 17.000472,17 0 0 0 4.252071,2.507812 l 0.777367,5.34961 C 18.443805,45.593172 18.907227,46 19.472526,46 l 9.045175,0 c 0.565296,0 1.028723,-0.406828 1.119171,-0.923828 l 0.777364,-5.34375 a 17.000472,17 0 0 0 4.252073,-2.513672 l 5.269677,2.070312 c 0.508772,0.18698 1.096294,3.44e-4 1.378944,-0.472656 l 4.523563,-7.623048 c 0.28265,-0.473 0.1581,-1.067202 -0.271492,-1.408202 L 40.838354,26.177734 A 17.000472,17 0 0 0 41.000468,24 a 17.000472,17 0 0 0 -0.1582,-2.181642 l 4.734507,-3.603514 c 0.429628,-0.329998 0.554142,-0.924204 0.271492,-1.408204 L 41.32665,9.183594 C 41.044,8.710594 40.456476,8.512938 39.947704,8.710938 L 34.676073,10.78125 A 17.000472,17 0 0 0 30.424002,8.273438 L 29.646638,2.923828 C 29.544892,2.406824 29.082999,2 28.517701,2 l -9.045175,0 z m 4.527472,14 a 8.000222,8 0 0 1 8.00022,8 8.000222,8 0 0 1 -8.00022,8 8.000222,8 0 0 1 -8.000224,-8 8.000222,8 0 0 1 0.03906,-0.798828 A 8.000222,8 0 0 1 23.999998,16 Z"
      id="path6"
      inkscape:connector-curvature="0" />
@@ -112,7 +112,7 @@
      cy="24"
      cx="24"
      id="circle4153"
-     style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#37b9a5;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 24 15 A 9 9 0 0 0 15 24 A 9 9 0 0 0 15.021484 24.576172 A 9 9 0 0 1 24 16 A 9 9 0 0 1 32.978516 24.423828 A 9 9 0 0 0 33 24 A 9 9 0 0 0 24 15 z "
