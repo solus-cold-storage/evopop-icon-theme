@@ -15,7 +15,7 @@
    id="svg3338"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="list-remove.svg">
+   sodipodi:docname="object-rotate-left.svg">
   <defs
      id="defs3340" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="-8.2905584"
-     inkscape:cy="10.254207"
+     inkscape:zoom="15.839192"
+     inkscape:cx="8.1308578"
+     inkscape:cy="7.5292288"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="960"
      inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="78"
+     inkscape:window-y="93"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,23 +59,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8,1041.3622 0,6"
-       id="path4137"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#d32f2f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
-       id="rect4137"
-       width="14"
-       height="14"
-       x="1"
-       y="1037.3622"
-       rx="1"
-       ry="1" />
-    <path
+       d="m 5.586666,1040.0625 3.033333,-3.0333 0,2.0467 c 2.63,0.3266 4.666667,2.5666 4.666667,5.2866 0,2.72 -2.036667,4.96 -4.666667,5.2867 l 0,-1.3467 c 1.89,-0.3166 3.333334,-1.96 3.333334,-3.94 0,-1.98 -1.443334,-3.6233 -3.333334,-3.94 l 0,2.6067 -3.033333,-2.9667 z m -2.92,3.6334 c 0.113333,-0.9267 0.483333,-1.82 1.083333,-2.5934 l 0.943334,0.9434 c -0.356667,0.5033 -0.583334,1.0666 -0.68,1.65 l -1.346667,0 z m 4.62,4.6033 0,1.35 c -0.926667,-0.1133 -1.826667,-0.4733 -2.6,-1.0733 l 0.956667,-0.9567 c 0.5,0.3533 1.06,0.58 1.643333,0.68 z m -2.593333,-1.62 -0.943334,0.9433 c -0.6,-0.7733 -0.97,-1.6666 -1.083333,-2.5933 l 1.346667,0 c 0.09667,0.5833 0.323333,1.1467 0.68,1.65 z"
+       id="path6"
        inkscape:connector-curvature="0"
-       id="path4139"
-       d="m 11,1044.3622 -6,0"
-       style="fill:none;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#000000;fill-opacity:0.55" />
   </g>
 </svg>
