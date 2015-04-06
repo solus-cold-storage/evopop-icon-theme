@@ -5,7 +5,7 @@ EXTRA_DIST = \
 
 xsessiondir = $(datadir)/xsessions
 
-themedir = $(datadir)/themes
+themedir = $(datadir)/icons
 
 install-data-hook:
 	$(MKDIR_P) $(DESTDIR)/usr/share/icons
