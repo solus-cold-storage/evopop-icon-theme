@@ -8,7 +8,8 @@ This is still a early Work in Progress!
 
 Extract the zip file & run the included install script.
 
-    bash install.sh
+    sh autogen.sh
+    sudo make install
     
 ###License:
 
