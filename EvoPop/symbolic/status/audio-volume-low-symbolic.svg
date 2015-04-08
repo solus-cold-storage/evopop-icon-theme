@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,11 +41,11 @@
      inkscape:window-height="1000"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="27.812866"
-     inkscape:cx="12.566548"
-     inkscape:cy="1.6439358"
-     inkscape:window-x="959"
-     inkscape:window-y="0"
+     inkscape:zoom="19.666666"
+     inkscape:cx="7.1246799"
+     inkscape:cy="3.4949879"
+     inkscape:window-x="336"
+     inkscape:window-y="11"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -53,11 +53,18 @@
        id="grid4133" />
   </sodipodi:namedview>
   <path
-     style="fill:#bebebe;fill-opacity:1"
-     d="M 8 2.6699219 L 4.6660156 6.0039062 L 2 6.0039062 L 2 10.003906 L 4.6660156 10.003906 L 8 13.335938 L 8 2.6699219 z "
-     id="path4" />
+     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 8,13.5 0,-12 -4,4 c 0,0 -3,0 -3,0 l 0,5 3,0 4,4 0,-1"
+     id="path4138"
+     inkscape:connector-curvature="0" />
   <path
-     style="fill:#bebebe;fill-opacity:0.33000001"
-     d="M 9.3339844 2.15625 L 9.3339844 3.5332031 C 11.260651 4.1065371 12.666016 5.8905732 12.666016 8.0039062 C 12.666016 10.11724 11.260651 11.899323 9.3339844 12.472656 L 9.3339844 13.849609 C 12.003984 13.242942 14 10.860573 14 8.0039062 C 14 5.1472403 12.003984 2.762916 9.3339844 2.15625 z M 9.3339844 5.3203125 L 9.3339844 10.689453 C 10.320651 10.19612 11 9.1805733 11 8.0039062 C 11 6.8272403 10.320651 5.8103125 9.3339844 5.3203125 z "
-     id="path4136" />
+     style="opacity:1;fill:#bebebe;fill-opacity:0.33000004;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9.3333,1.0800781 0,1.515625 A 5.5,5.5 0 0 1 13.8333,8 a 5.5,5.5 0 0 1 -4.5,5.40625 l 0,1.515625 a 7,7 0 0 0 6,-6.921875 7,7 0 0 0 -6,-6.9199219 z"
+     id="path4140"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#bebebe;fill-opacity:0.33000004;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9.3333,4.6464844 0,6.7050776 A 3.5,3.5 0 0 0 11.8333,8 3.5,3.5 0 0 0 9.3333,4.6464844 Z"
+     id="path4149"
+     inkscape:connector-curvature="0" />
 </svg>

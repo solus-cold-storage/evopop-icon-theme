@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="audio-volume-high-symbolic.svg">
+   sodipodi:docname="audio-speaker-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -37,14 +37,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="1000"
+     inkscape:window-width="960"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="27.812866"
-     inkscape:cx="9.3860936"
-     inkscape:cy="1.6439358"
-     inkscape:window-x="959"
+     inkscape:zoom="19.666666"
+     inkscape:cx="7.302646"
+     inkscape:cy="9.5966829"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
@@ -53,8 +53,16 @@
        id="grid4133" />
   </sodipodi:namedview>
   <path
-     d="m 2,6.003333 0,4 2.6666667,0 L 8,13.336667 8,2.67 4.6666667,6.003333 2,6.003333 Z m 9,2 C 11,6.826667 10.32,5.81 9.333333,5.32 l 0,5.37 C 10.32,10.196667 11,9.18 11,8.003333 Z m -1.666667,-5.846666 0,1.376666 c 1.926667,0.573334 3.333334,2.356667 3.333334,4.47 0,2.113334 -1.406667,3.896667 -3.333334,4.47 l 0,1.376667 C 12.003333,13.243333 14,10.86 14,8.003333 14,5.146667 12.003333,2.763333 9.333333,2.156667 Z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 8,13.5 0,-12 -4,4 c 0,0 -3,0 -3,0 l 0,5 3,0 4,4 0,-1"
+     id="path4138"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 9 1.0800781 L 9 2.5957031 A 5.5 5.5 0 0 1 13.5 8 A 5.5 5.5 0 0 1 9 13.40625 L 9 14.921875 A 7 7 0 0 0 15 8 A 7 7 0 0 0 9 1.0800781 z "
+     id="path4140" />
+  <path
+     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 9 4.6464844 L 9 11.351562 A 3.5 3.5 0 0 0 11.5 8 A 3.5 3.5 0 0 0 9 4.6464844 z "
+     id="path4149" />
 </svg>
