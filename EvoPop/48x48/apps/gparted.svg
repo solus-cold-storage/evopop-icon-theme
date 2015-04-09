@@ -50,7 +50,7 @@
        x2="-33.47604"
        y2="1030.8861"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(74,12.000017)" />
+       gradientTransform="translate(74,12.000068)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,8 +60,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="-20.106167"
-     inkscape:cy="2.6309756"
+     inkscape:cx="11.369509"
+     inkscape:cy="15.375752"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <g
-       id="g4350">
+       id="g4795">
       <circle
          r="22"
          cy="1028.3622"
@@ -123,10 +123,15 @@
          cx="25"
          id="path4186-1"
          style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
-      <circle
-         r="15.999999"
-         cy="1028.3622"
-         cx="24"
+      <path
+         d="m 24,1044.3622 a 15.999999,15.999999 0 0 1 -11.313708,-4.6863 15.999999,15.999999 0 0 1 -4.686291,-11.3137 l 15.999999,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="1.5707963"
+         sodipodi:ry="15.999999"
+         sodipodi:rx="15.999999"
+         sodipodi:cy="1028.3622"
+         sodipodi:cx="24"
+         sodipodi:type="arc"
          id="path4186"
          style="opacity:1;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
       <path
