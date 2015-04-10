@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gnome-music.svg"
    inkscape:export-filename="/home/afel/Pictures/evos-mockups/personal-app-icons/rhythmbox.png"
    inkscape:export-xdpi="360"
@@ -454,18 +454,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="8.1204814"
+     inkscape:cx="11.346656"
      inkscape:cy="19.028856"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="1026"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-width="959"
+     inkscape:window-height="1011"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
@@ -503,7 +503,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:#333333;fill-opacity:1;stroke:none"
+       style="fill:#262a30;fill-opacity:1;stroke:none"
        id="rect2983"
        width="34"
        height="44.000019"
@@ -548,7 +548,7 @@
        transform="translate(0,-1)">
       <path
          transform="matrix(2.25,0,0,1.8,17.25,976.1622)"
-         d="m 5,21.5 a 2,2.5 0 1 1 -4,0 2,2.5 0 1 1 4,0 z"
+         d="M 5,21.5 A 2,2.5 0 0 1 3,24 2,2.5 0 0 1 1,21.5 2,2.5 0 0 1 3,19 2,2.5 0 0 1 5,21.5 Z"
          sodipodi:ry="2.5"
          sodipodi:rx="2"
          sodipodi:cy="21.5"
@@ -566,7 +566,7 @@
            sodipodi:cy="-4"
            sodipodi:rx="2"
            sodipodi:ry="4"
-           d="m -16,-4 a 2,4 0 1 1 -4,0 2,4 0 1 1 4,0 z"
+           d="m -16,-4 a 2,4 0 0 1 -2,4 2,4 0 0 1 -2,-4 2,4 0 0 1 2,-4 2,4 0 0 1 2,4 z"
            transform="matrix(1.25,0,0,0.625,46.5,1017.3622)" />
         <path
            style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -590,7 +590,7 @@
        sodipodi:cy="30"
        sodipodi:rx="10"
        sodipodi:ry="10"
-       d="m -4,30 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       d="M -4,30 A 10,10 0 0 1 -14,40 10,10 0 0 1 -24,30 10,10 0 0 1 -14,20 10,10 0 0 1 -4,30 Z"
        transform="matrix(1.25,0,0,1.25,41.499999,996.86216)" />
     <path
        style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
@@ -621,7 +621,7 @@
        sodipodi:cy="21.428932"
        sodipodi:rx="11.677197"
        sodipodi:ry="12.428932"
-       d="m 66.354394,21.428932 a 11.677197,12.428932 0 1 1 -23.354395,0 11.677197,12.428932 0 1 1 23.354395,0 z"
+       d="M 66.354394,21.428932 A 11.677197,12.428932 0 0 1 54.677197,33.857864 11.677197,12.428932 0 0 1 42.999999,21.428932 11.677197,12.428932 0 0 1 54.677197,9 11.677197,12.428932 0 0 1 66.354394,21.428932 Z"
        transform="matrix(1.0704623,0,0,1.0057179,-34.529878,1012.8107)" />
     <path
        sodipodi:type="arc"
@@ -631,14 +631,14 @@
        sodipodi:cy="30"
        sodipodi:rx="10"
        sodipodi:ry="10"
-       d="m -4,30 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       d="M -4,30 A 10,10 0 0 1 -14,40 10,10 0 0 1 -24,30 10,10 0 0 1 -14,20 10,10 0 0 1 -4,30 Z"
        transform="matrix(1.2,0,0,1.2,40.799999,998.36216)" />
     <g
        id="g3078"
        transform="translate(-1e-6,-4e-5)">
       <path
          transform="matrix(2,0,0,1.6,18,999.9622)"
-         d="M 5,21.5 C 5,22.880712 4.1045695,24 3,24 1.8954305,24 1,22.880712 1,21.5 1,20.119288 1.8954305,19 3,19 c 1.1045695,0 2,1.119288 2,2.5 z"
+         d="M 5,21.5 A 2,2.5 0 0 1 3,24 2,2.5 0 0 1 1,21.5 2,2.5 0 0 1 3,19 2,2.5 0 0 1 5,21.5 Z"
          sodipodi:ry="2.5"
          sodipodi:rx="2"
          sodipodi:cy="21.5"
@@ -648,7 +648,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(1.75,0,0,1.4,18.75,1004.2622)"
-         d="M 5,21.5 C 5,22.880712 4.1045695,24 3,24 1.8954305,24 1,22.880712 1,21.5 1,20.119288 1.8954305,19 3,19 c 1.1045695,0 2,1.119288 2,2.5 z"
+         d="M 5,21.5 A 2,2.5 0 0 1 3,24 2,2.5 0 0 1 1,21.5 2,2.5 0 0 1 3,19 2,2.5 0 0 1 5,21.5 Z"
          sodipodi:ry="2.5"
          sodipodi:rx="2"
          sodipodi:cy="21.5"
