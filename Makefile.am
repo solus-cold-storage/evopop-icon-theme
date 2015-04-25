@@ -1,6 +1,7 @@
 EXTRA_DIST = \
 	EvoPop \
 	LICENSE \
+	CREDITS \
 	README.md
 
 xsessiondir = $(datadir)/xsessions

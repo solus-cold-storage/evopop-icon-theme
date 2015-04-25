@@ -14,5 +14,3 @@ Extract the zip file & run the included install script.
 ###License:
 
 All icons are released under an [Attribution 4.0 International] (http://creativecommons.org/licenses/by/4.0/) license.
-
-Also a big thx to snwh for letting us use the paper action & symbolic icons.
