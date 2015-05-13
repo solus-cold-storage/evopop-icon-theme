@@ -9,8 +9,8 @@ xsessiondir = $(datadir)/xsessions
 themedir = $(datadir)/icons
 
 install-data-hook:
-	$(MKDIR_P) $(DESTDIR)/usr/share/icons
-	cp -Rv EvoPop $(DESTDIR)/usr/share/icons/.
+	$(MKDIR_P) $(DESTDIR)$(themedir)
+	cp -Rv EvoPop $(DESTDIR)$(themedir)/.
 
 uninstall-hook:
-	test -e $(DESTDIR)/usr/share/icons/EvoPop && rm -rfv $(DESTDIR)/usr/share/icons/EvoPop
+	test -e $(DESTDIR)$(themedir)/EvoPop && rm -rfv $(DESTDIR)$(themedir)/EvoPop
