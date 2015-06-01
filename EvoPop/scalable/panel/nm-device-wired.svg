@@ -98,7 +98,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.125"
-     inkscape:cx="89.197249"
+     inkscape:cx="2.1384255"
      inkscape:cy="63.201042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -122,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -143,15 +143,10 @@
        transform="translate(0,860.3622)"
        id="rect4164" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient4535);fill-opacity:1;stroke:none;stroke-width:2.27600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;enable-background:new"
-       d="M 42 42 C 42 42 33 42 33 51 L 33 132 C 33 140.99997 42 141 42 141 L 60 141 L 69 150 L 123 150 L 132 141 L 150 141 C 150 141 159 142.16947 159 132 L 159 51 C 159 42 150 42 150 42 L 42 42 z "
-       transform="translate(0,860.3622)"
-       id="path4533" />
-    <path
        style="fill:#d1d5db;fill-opacity:1;stroke:none"
-       d="M 42 42 C 42 42 33 42 33 51 L 33 132 C 33 140.99997 42 141 42 141 L 60 141 L 69 150 L 123 150 L 132 141 L 150 141 C 150 141 159 142.16947 159 132 L 159 51 C 159 42 150 42 150 42 L 42 42 z "
-       transform="translate(0,860.3622)"
-       id="rect6461" />
+       d="m 42,902.3622 c 0,0 -9,0 -9,9 l 0,81 c 0,9 9,9 9,9 l 18,0 9,9 54,0 9,-9 18,0 c 0,0 9,1.1695 9,-9 l 0,-81 c 0,-9 -9,-9 -9,-9 l -108,0 z"
+       id="rect6461"
+       inkscape:connector-curvature="0" />
     <path
        id="path4169"
        transform="translate(0,860.3622)"
@@ -167,5 +162,10 @@
        d="M 42 42 C 42 42 33 42 33 51 L 33 52 C 33 43 42 43 42 43 L 150 43 C 150 43 159 43 159 52 L 159 51 C 159 42 150 42 150 42 L 42 42 z M 51 123 L 51 124 L 69 124 L 78 133 L 114 133 L 123 124 L 141 124 L 141 123 L 123 123 L 114 132 L 78 132 L 69 123 L 51 123 z "
        transform="translate(0,860.3622)"
        id="path4179" />
+    <path
+       style="display:inline;opacity:1;fill:url(#linearGradient4535);fill-opacity:1;stroke:none;stroke-width:2.27600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;enable-background:new"
+       d="M 42 42 C 42 42 33 42 33 51 L 33 132 C 33 140.99997 42 141 42 141 L 60 141 L 69 150 L 123 150 L 132 141 L 150 141 C 150 141 159 142.16947 159 132 L 159 51 C 159 42 150 42 150 42 L 42 42 z "
+       transform="translate(0,860.3622)"
+       id="path4533" />
   </g>
 </svg>
