@@ -10,6 +10,13 @@ Extract the zip file & run the included install script.
 
     sh autogen.sh
     sudo make install
+
+To build the theme the follwing packages are required
+
+* autoconf
+* automake
+* pkg-config or pkgconfig for Fedora
+
     
 ###License:
 
