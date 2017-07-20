@@ -158,41 +158,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter4604"
-       x="-0.048"
-       width="1.096"
-       y="-0.048"
-       height="1.096">
+       id="filter4571"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="8.96"
-         id="feGaussianBlur4606" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4630"
-       x="-0.012"
-       width="1.024"
-       y="-0.012"
-       height="1.024">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.14"
-         id="feGaussianBlur4632" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4636"
-       x="-0.012"
-       width="1.024"
-       y="-0.012"
-       height="1.024">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.1"
-         id="feGaussianBlur4638" />
+         stdDeviation="4.48"
+         id="feGaussianBlur4573" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -203,11 +177,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999999"
-     inkscape:cx="428.54214"
-     inkscape:cy="-101.93467"
+     inkscape:cx="-81.440541"
+     inkscape:cy="200.00964"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="2560"
@@ -360,7 +334,7 @@
        inkscape:connector-curvature="0"
        id="path4628"
        d="m 105,499 v 14 h -7 l 14,14 14,-14 h -7 v -14 h -12.33594 z"
-       style="display:inline;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new;filter:url(#filter4630)" />
+       style="display:inline;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new;" />
     <path
        style="fill:#e2e5e7;fill-opacity:1;stroke:none;stroke-width:1.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 105 498 L 105 512 L 98 512 L 112 526 L 112 501.5 L 119 501.5 L 119 498 L 105 498 z "
@@ -441,7 +415,7 @@
        inkscape:connector-curvature="0"
        id="path4634"
        d="M 64,527 74,517 H 69 V 507 H 59 v 10 h -5 z"
-       style="fill:#010101;fill-opacity:0.2;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4636)" />
+       style="fill:#010101;fill-opacity:0.2;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
     <path
        style="fill:#e2e5e7;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 64,526 74,516 H 69 V 506 H 59 v 10 h -5 z"
@@ -476,7 +450,7 @@
        inkscape:connector-curvature="0"
        id="path4574"
        d="M 432,50 V 274 H 320 L 544,498 768,274 H 656 V 50 H 458.62496 Z"
-       style="display:inline;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:31.99999619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new;filter:url(#filter4604)" />
+       style="display:inline;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:31.99999619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new;filter:url(#filter4571)" />
     <path
        style="display:inline;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:31.99999619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="M 432,50 V 274 H 320 L 544,498 768,274 H 656 V 50 H 458.62496 Z"
