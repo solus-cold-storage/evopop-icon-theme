@@ -278,12 +278,12 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="191.4464"
-     inkscape:cy="179.96194"
+     inkscape:zoom="8"
+     inkscape:cx="24.97698"
+     inkscape:cy="-8.1331034"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1280"
@@ -304,7 +304,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -420,28 +420,10 @@
      id="layer2"
      inkscape:label="Bitmap"
      style="display:inline">
-    <rect
-       style="display:inline;opacity:1;fill:#d5314f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect4437"
-       width="16"
-       height="15.999948"
-       x="-32"
-       y="512.00006"
-       rx="1.000002"
-       ry="1"
-       transform="scale(-1,1)"
-       inkscape:export-filename="/home/peter/Bureaublad/user-desktop.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/peter/Bureaublad/test.png"
-       inkscape:connector-curvature="0"
-       id="path4535"
-       d="m 24.000731,515.579 c 0.315589,0 0.571429,0.25581 0.571429,0.5714 -1.77e-4,0.0189 -0.0017,0.0383 -0.004,0.0571 1.308754,0.26216 2.289166,1.41205 2.289057,2.80009 l -7.4e-5,1.1428 v 1.4285 L 28,522.72169 v 0.2857 H 26.857143 21.142857 20 v -0.2857 l 1.142857,-1.1428 7.4e-5,-2.5713 c 4.6e-5,-1.38804 0.980389,-2.53793 2.289069,-2.80009 -0.0023,-0.0188 -0.004,-0.0377 -0.004,-0.0571 0,-0.31559 0.25584,-0.5714 0.571429,-0.5714 z m 0.98764,7.9996 c -0.203777,0.35294 -0.580142,0.57065 -0.987725,0.5714 -0.407983,-3.4e-4 -0.784852,-0.21812 -0.988846,-0.5714 z"
-       style="display:inline;opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       sodipodi:nodetypes="sccscccccccccscssscccc" />
+       style="opacity:1;fill:#d5314f;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 17 512 C 16.446 512 16 512.446 16 513 L 16 524 L 16 528 L 19 525 L 31 525 C 31.554 525 32 524.554 32 524 L 32 513 C 32 512.446 31.554 512 31 512 L 17 512 z "
+       id="rect4598" />
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="m 159,493 c -1.662,0 -3,1.338 -3,3 v 19 3 7 l 4,-4 h 25 c 1.662,0 3,-1.338 3,-3 v -22 c 0,-1.662 -1.338,-3 -3,-3 z"
@@ -758,5 +740,14 @@
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="M 216 468 C 213.784 468 212 469.784 212 472 L 212 473 C 212 470.784 213.784 469 216 469 L 252 469 C 254.216 469 256 470.784 256 473 L 256 472 C 256 469.784 254.216 468 252 468 L 216 468 z "
        id="path4695" />
+    <path
+       sodipodi:nodetypes="sccscccccccccscssscccc"
+       style="display:inline;opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 24.00064,514.5 c 0.27614,0 0.5,0.22384 0.5,0.5 -1.6e-4,0.0165 -0.001,0.0335 -0.004,0.05 1.14516,0.2294 2.00302,1.2356 2.00292,2.4502 l -6e-5,1 v 1.25 l 1,1 v 0.25 h -1 -5 -1 v -0.25 l 1,-1 6e-5,-2.25 c 5e-5,-1.2146 0.85785,-2.2208 2.00294,-2.4502 -0.002,-0.0165 -0.003,-0.033 -0.003,-0.05 0,-0.27616 0.22386,-0.5 0.5,-0.5 z m 0.86418,7 c -0.1783,0.30885 -0.50762,0.49934 -0.86426,0.5 -0.35698,-3e-4 -0.68674,-0.19086 -0.86523,-0.5 z"
+       id="path4606"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/peter/Bureaublad/test.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>

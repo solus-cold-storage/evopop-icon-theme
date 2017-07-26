@@ -19,6 +19,30 @@
    sodipodi:docname="x-office-calendar.svg">
   <defs
      id="defs1081">
+    <linearGradient
+       id="linearGradient4554"
+       inkscape:collect="always">
+      <stop
+         id="stop4550"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.05490196" />
+      <stop
+         id="stop4552"
+         offset="1"
+         style="stop-color:#177ed5;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4548"
+       inkscape:collect="always">
+      <stop
+         id="stop4544"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.05490196" />
+      <stop
+         id="stop4546"
+         offset="1"
+         style="stop-color:#177ed5;stop-opacity:0;" />
+    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -46,7 +70,7 @@
        inkscape:collect="always"
        id="linearGradient4165">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.15000001"
+         style="stop-color:#ffffff;stop-opacity:0.05490196"
          offset="0"
          id="stop4167" />
       <stop
@@ -56,7 +80,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4165"
+       xlink:href="#linearGradient4548"
        id="linearGradient4435"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.65217041,0,0,0.65217328,96.3479,-158.67021)"
@@ -66,7 +90,7 @@
        y2="1045.3622" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4165"
+       xlink:href="#linearGradient4554"
        id="linearGradient4171-1-0"
        x1="7"
        y1="1011.3622"
@@ -140,9 +164,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7999999"
-     inkscape:cx="182.25132"
-     inkscape:cy="94.305964"
+     inkscape:zoom="1.4"
+     inkscape:cx="183.21021"
+     inkscape:cy="48.216282"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"

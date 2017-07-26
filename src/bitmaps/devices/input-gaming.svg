@@ -19,6 +19,30 @@
    sodipodi:docname="input-gaming.svg">
   <defs
      id="defs1081">
+    <linearGradient
+       id="linearGradient4655"
+       inkscape:collect="always">
+      <stop
+         id="stop4651"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.05490196" />
+      <stop
+         id="stop4653"
+         offset="1"
+         style="stop-color:#177ed5;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4649"
+       inkscape:collect="always">
+      <stop
+         id="stop4645"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.05490196" />
+      <stop
+         id="stop4647"
+         offset="1"
+         style="stop-color:#177ed5;stop-opacity:0;" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4327">
@@ -216,7 +240,7 @@
        inkscape:collect="always"
        id="linearGradient4165">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.15000001"
+         style="stop-color:#ffffff;stop-opacity:0.05490196"
          offset="0"
          id="stop4167" />
       <stop
@@ -226,7 +250,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4165"
+       xlink:href="#linearGradient4655"
        id="linearGradient4435"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.65217041,0,0,0.65217328,96.3479,-158.67017)"
@@ -236,7 +260,7 @@
        y2="1045.3622" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4165"
+       xlink:href="#linearGradient4649"
        id="linearGradient4171-1-0"
        x1="7"
        y1="1011.3622"
@@ -284,9 +308,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="403.54222"
-     inkscape:cy="165.72381"
+     inkscape:zoom="11.2"
+     inkscape:cx="87.984663"
+     inkscape:cy="40.773145"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -310,7 +334,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
