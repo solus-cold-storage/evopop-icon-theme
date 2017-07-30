@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1087"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="gnome-contacts.svg">
+   sodipodi:docname="gnome-books.svg">
   <defs
      id="defs1081">
     <filter
@@ -230,9 +230,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="56.803004"
-     inkscape:cy="29.968023"
+     inkscape:zoom="1"
+     inkscape:cx="128.25554"
+     inkscape:cy="-209.09024"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -320,7 +320,7 @@
          y="733.32251"
          x="142.48828"
          sodipodi:role="line"
-         id="tspan3937">gnome-contacts</tspan></text>
+         id="tspan3937">gnome-books</tspan></text>
     <rect
        style="display:inline;overflow:visible;visibility:visible;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        id="rect16x16"
@@ -405,13 +405,23 @@
        d="m 58,507 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -12 l -6,-6 z"
        style="opacity:1;fill:#000000;fill-opacity:0.2;stroke:none" />
     <path
-       style="opacity:1;fill:#1e88e5;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none"
        d="M 58 506 C 56.892 506 56 506.892 56 508 L 56 524 C 56 525.108 56.892 526 58 526 L 70 526 C 71.108 526 72 525.108 72 524 L 72 512 L 72 508 C 72 506.892 71.108 506 70 506 L 66 506 L 58 506 z "
        id="rect4555" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:0.15000001;stroke:none;stroke-opacity:0.2"
        d="M 58 506 C 56.892 506 56 506.892 56 508 L 56 524 C 56 525.108 56.892 526 58 526 L 59 526 L 59 506 L 58 506 z "
        id="rect4580" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4592"
+       d="m 69,507 v 6 l -2,-2 -2,2 v -6 h 4"
+       style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#505660;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 69,506 v 6 l -2,-2 -2,2 v -6 h 4"
+       id="path4585"
+       inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:0.2;stroke:none"
        d="M 58 506 C 56.892 506 56 506.892 56 508 L 56 509 C 56 507.892 56.892 507 58 507 L 61 507 L 67 507 L 70 507 C 71.108 507 72 507.892 72 509 L 72 508 C 72 506.892 71.108 506 70 506 L 66 506 L 62 506 L 58 506 z "
@@ -592,15 +602,5 @@
        style="display:inline;fill:url(#linearGradient4620);fill-opacity:1;stroke:none;stroke-width:1.46667397;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="M 58 506 C 56.892 506 56 506.892 56 508 L 56 508.47656 L 56 523.54297 L 56 524 C 56 525.108 56.892 526 58 526 L 70 526 C 71.108 526 72 525.108 72 524 L 72 523.52344 L 72 512 L 72 508 C 72 506.892 71.108 506 70 506 L 66 506 L 58 506 z "
        id="path4618" />
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:#000000;fill-opacity:0.2;stroke:none;enable-background:new"
-       d="m 64,513 c -2.209137,0 -4,1.79086 -4,4 0,2.20914 1.790863,4 4,4 h 2.5 c 0,0 0.468797,0 0.5,-0.5 C 67,520 66.5,520 66.5,520 H 64 c -1.656863,0 -3,-1.34315 -3,-3 0,-1.65687 1.343137,-3 3,-3 1.656863,0 3,1.34313 3,3 v 0.5 c 0,0.27614 -0.223863,0.5 -0.5,0.5 -0.276137,0 -0.5,-0.22386 -0.5,-0.5 V 517 c 0,-1.10457 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 0.52308,0 0.995173,-0.20643 1.35156,-0.53515 0.28517,0.33887 0.70553,0.53537 1.14844,0.53515 0.82843,0 1.5,-0.67157 1.5,-1.5 V 517 c 0,-2.20914 -1.790863,-4 -4,-4 z m 0,3 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"
-       id="path4619" />
-    <path
-       id="path5513"
-       d="m 64,512 c -2.209137,0 -4,1.79086 -4,4 0,2.20914 1.790863,4 4,4 h 2.5 c 0,0 0.468797,0 0.5,-0.5 C 67,519 66.5,519 66.5,519 H 64 c -1.656863,0 -3,-1.34315 -3,-3 0,-1.65687 1.343137,-3 3,-3 1.656863,0 3,1.34313 3,3 v 0.5 c 0,0.27614 -0.223863,0.5 -0.5,0.5 -0.276137,0 -0.5,-0.22386 -0.5,-0.5 V 516 c 0,-1.10457 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 0.52308,0 0.995173,-0.20643 1.35156,-0.53515 0.28517,0.33887 0.70553,0.53537 1.14844,0.53515 0.82843,0 1.5,-0.67157 1.5,-1.5 V 516 c 0,-2.20914 -1.790863,-4 -4,-4 z m 0,3 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke:none;enable-background:new"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
