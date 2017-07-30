@@ -1,6 +1,6 @@
 # EvoPop IconTheme
 
-A simple icon theme with some google material design inspiration.
+A simple icon theme with some inspiration from Google Material Design.
 
 This is still a early Work in Progress!
 
