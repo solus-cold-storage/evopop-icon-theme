@@ -178,10 +178,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="353.05469"
+     inkscape:cx="207.59272"
      inkscape:cy="155.98323"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
@@ -203,7 +203,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -255,7 +255,7 @@
          y="733.32251"
          x="15.006836"
          sodipodi:role="line"
-         id="tspan3933">mimetype</tspan></text>
+         id="tspan3933">mimetypes</tspan></text>
     <text
        y="733.32251"
        xml:space="preserve"
