@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8000001"
-     inkscape:cx="-1.4841086"
-     inkscape:cy="9.1539656"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="265.59335"
+     inkscape:cy="119.61499"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -169,6 +169,16 @@
        width="22"
        id="rect4495"
        style="display:inline;overflow:visible;visibility:visible;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83333325;marker:none;enable-background:accumulate" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0.2;stroke:none;enable-background:new"
+       d="M 55 506 C 48.906 506 44 510.906 44 517 C 44 517.16899 44.017925 517.33292 44.025391 517.5 C 44.287156 511.64183 49.074989 507 55 507 C 60.925011 507 65.712844 511.64183 65.974609 517.5 C 65.982075 517.33292 66 517.16899 66 517 C 66 510.906 61.094 506 55 506 z "
+       transform="translate(0,153.06668)"
+       id="rect4613" />
+    <path
+       id="path4618"
+       d="m 90,658.06668 c -6.094,0 -11,4.906 -11,11 0,0.16899 0.01792,0.33292 0.02539,0.5 0.261765,-5.85817 5.049598,-10.5 10.974609,-10.5 5.925011,0 10.712841,4.64183 10.974611,10.5 0.008,-0.16708 0.0254,-0.33101 0.0254,-0.5 0,-6.094 -4.906002,-11 -11.000002,-11 z"
+       style="display:inline;fill:#ffffff;fill-opacity:0.2;stroke:none;enable-background:new"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
