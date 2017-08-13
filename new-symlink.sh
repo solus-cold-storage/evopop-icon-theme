@@ -21,10 +21,8 @@ usage() {
 	    [pl]aces
 	    [s]tatus
 
-	Examples:
-	  $0 apps radiotray-ng-on.svg radiotray.svg
-	  $0 panel radiotray-ng-off-panel.svg radiotray_off.svg
-	  $0 panel radiotray-ng-on-panel.svg radiotray_on.svg
+	Example:
+	  $0 apps radiotray-ng-on radiotray.png
 	EOF
 
 	exit 2
@@ -44,7 +42,7 @@ case "$CONTEXT" in
 		done
 		;;
 	devices|d*)
-		for size in '16x16' '16x16@2x' '24x24' '24x24@2x' '32x32' '32x32@2x' '48x48' '48x48@2x' '64x64' '64x64@2x' '512x512' '512x512@2x'; do
+		for size in '16x16' '16x16@2x' '22x22' '22x22@2x' '24x24' '24x24@2x' '32x32' '32x32@2x' '48x48' '48x48@2x' '64x64' '64x64@2x' '512x512' '512x512@2x'; do
 			ln -sfv "$TARGET_ICON" \
 				"$TARGET_DIR/${size}/devices/${SYMLINK_NAME}.png"
 		done

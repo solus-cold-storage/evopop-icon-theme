@@ -1,4 +1,4 @@
-# EvoPop IconTheme
+# EvoPop Icon Theme
 
 A simple icon theme with some inspiration from Google Material Design.
 
