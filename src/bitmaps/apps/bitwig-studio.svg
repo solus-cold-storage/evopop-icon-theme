@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1087"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="bitwig.svg">
+   sodipodi:docname="bitwig-studio.svg">
   <defs
      id="defs1081">
     <linearGradient
@@ -187,11 +187,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="270.74437"
-     inkscape:cy="768.16294"
+     inkscape:zoom="2"
+     inkscape:cx="271.61179"
+     inkscape:cy="51.958266"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
@@ -213,7 +213,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -537,24 +537,6 @@
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
     <circle
        r="1"
-       cy="513"
-       cx="88.5"
-       id="circle4569"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4571"
-       cx="91.5"
-       cy="513"
-       r="1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4573"
-       cx="94.5"
-       cy="513"
-       r="1" />
-    <circle
-       r="1"
        cy="516"
        cx="88.5"
        id="circle4575"
@@ -565,18 +547,6 @@
        cx="91.5"
        cy="516"
        r="1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4579"
-       cx="88.5"
-       cy="516"
-       r="1" />
-    <circle
-       r="1"
-       cy="516"
-       cx="91.5"
-       id="circle4581"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
     <circle
        r="1"
        cy="519"
@@ -651,24 +621,6 @@
        r="2" />
     <circle
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       id="circle4609"
-       cx="191"
-       cy="498.00003"
-       r="2" />
-    <circle
-       cy="498.00003"
-       cx="197"
-       id="circle4611"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       r="2" />
-    <circle
-       cy="498.00003"
-       cx="203"
-       id="circle4613"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       r="2" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
        id="circle4615"
        cx="191"
        cy="504.00003"
@@ -678,18 +630,6 @@
        cx="197"
        id="circle4617"
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       r="2" />
-    <circle
-       cy="504.00003"
-       cx="191"
-       id="circle4619"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       r="2" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       id="circle4621"
-       cx="197"
-       cy="504.00003"
        r="2" />
     <circle
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
@@ -831,12 +771,6 @@
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1" />
     <circle
        r="2"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
-       id="circle4736"
-       cx="141"
-       cy="506.00003" />
-    <circle
-       r="2"
        cy="518"
        cx="147"
        id="circle4748"
@@ -879,18 +813,6 @@
        r="1" />
     <circle
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4766"
-       cx="22.5"
-       cy="517"
-       r="1" />
-    <circle
-       r="1"
-       cy="517"
-       cx="25.5"
-       id="circle4768"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="circle4772"
        cx="22.5"
        cy="520"
@@ -901,18 +823,6 @@
        cx="25.5"
        id="circle4774"
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       r="1"
-       cy="520"
-       cx="22.5"
-       id="circle4776"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4778"
-       cx="25.5"
-       cy="520"
-       r="1" />
     <circle
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="circle4780"
@@ -975,24 +885,6 @@
        r="1" />
     <circle
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4800"
-       cx="53.5"
-       cy="514"
-       r="1" />
-    <circle
-       r="1"
-       cy="514"
-       cx="56.5"
-       id="circle4802"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       r="1"
-       cy="514"
-       cx="59.5"
-       id="circle4804"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="circle4806"
        cx="53.5"
        cy="517"
@@ -1003,18 +895,6 @@
        cx="56.5"
        id="circle4808"
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       r="1"
-       cy="517"
-       cx="53.5"
-       id="circle4810"
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4812"
-       cx="56.5"
-       cy="517"
-       r="1" />
     <circle
        style="opacity:1;fill:#bf1d37;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="circle4814"
