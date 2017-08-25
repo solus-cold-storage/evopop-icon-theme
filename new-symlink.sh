@@ -14,6 +14,7 @@ usage() {
 	  $0 context <symlink name> <icon name>
 
 	  available contexts:
+	    [a]ctions
 	    [ap]ps
 	    [d]evices
 	    [e]mblems
@@ -35,6 +36,12 @@ SYMLINK_NAME="${2%*.svg}"
 TARGET_ICON="$3"
 
 case "$CONTEXT" in
+	actions|a*)
+		for size in '16x16' '16x16@2x' '22x22' '22x22@2x' '24x24' '24x24@2x' '32x32' '32x32@2x'; do
+			ln -sfv "$TARGET_ICON" \
+				"$TARGET_DIR/${size}/actions/${SYMLINK_NAME}.png"
+		done
+		;;
 	apps|ap*)
 		for size in '16x16' '16x16@2x' '22x22' '22x22@2x' '24x24' '24x24@2x' '32x32' '32x32@2x' '48x48' '48x48@2x' '64x64' '64x64@2x' '512x512' '512x512@2x'; do
 			ln -sfv "$TARGET_ICON" \
