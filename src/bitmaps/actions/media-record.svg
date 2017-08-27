@@ -25,11 +25,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="83.40625"
-     inkscape:cy="57.494665"
+     inkscape:zoom="2.8"
+     inkscape:cx="-7.6625068"
+     inkscape:cy="11.925438"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -145,6 +145,28 @@
      inkscape:label="Bitmap"
      style="display:inline"
      transform="translate(0,-488)">
+    <rect
+       transform="matrix(0,-1,-1,0,0,0)"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;enable-background:new;stroke-opacity:0.2;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect829"
+       width="16"
+       height="16"
+       x="-528"
+       y="-32"
+       rx="8"
+       ry="8" />
+    <circle
+       r="10"
+       cy="517"
+       cx="59"
+       id="circle831"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+       id="circle833"
+       cx="98"
+       cy="516"
+       r="10" />
     <rect
        ry="8"
        rx="8"
