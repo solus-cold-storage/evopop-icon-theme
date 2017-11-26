@@ -36,7 +36,7 @@ SYMLINK_NAME="${2%*.svg}"
 TARGET_ICON="$3"
 
 case "$CONTEXT" in
-	actions|a*)
+	actions|ac*)
 		for size in '16x16' '16x16@2x' '22x22' '22x22@2x' '24x24' '24x24@2x'; do
 			ln -sfv "$TARGET_ICON" \
 				"$TARGET_DIR/${size}/actions/${SYMLINK_NAME}.png"
